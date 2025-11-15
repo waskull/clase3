@@ -1,2 +1,2 @@
-def hola(name):
-    print("Hola ",name)
+def hola(name, apellido):
+    print("Hola ",name,apellido)
